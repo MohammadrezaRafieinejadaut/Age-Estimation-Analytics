@@ -3,7 +3,7 @@ import requests
 import zipfile
 
 # تنظیمات لینک و نام فایل
-url = "https://example.com"
+url = "https://drive.google.com/drive/folders/0BxYys69jI14kU0I1YUQyY1ZDRUE?usp=sharing"
 zip_target = "dataset.zip"
 extract_path = "./data"
 
